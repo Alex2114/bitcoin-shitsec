@@ -2,11 +2,11 @@
 bitcoin blockchain, testnet
 testnet=1
 prune=550
-# hopefully keep it just over >2GB in size
+/ hopefully keep it just over >2GB in size
 
 
 b2sum hash of each indidual file
 
-distribute over bittorrent
+/distribute over bittorrent
 
 ...
