@@ -1,19 +1,16 @@
 // bitcoin-shitsec
-
 // bitcoin blockchain, testnet
-
 testnet=1
-
 prune=550
-
 // hopefully keep it just over >2GB in size
-
 b2sum hash of each indidual file
-
 // proof of 'trust' 'reliability' and 'speed of download'?
-
 // ease of access to bitcoin testnet
-
 // distribute monthly updates over bittorrent
+
+
+// https://github.com/alex2114/bitcoin-shitsec
+// https://archive.org/download/bitcointestnet
+// leave me messages on my github, and provide vour contact information if you want a reply
 
 ...
