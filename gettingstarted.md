@@ -1,10 +1,10 @@
-# This is a comment, it is not read by the bitcoin client application
+# This is a comment, it is not read by the bitcoin client application. Open with a text editor to see.
 # On first setting up, after downloading and installing the bitcoin-core client, run the program using the GUI, bitcoin-qt.
 # This will automatically set locations for the data (blockchain), wallet, and bitcoin.conf setup file, copied here for your 
-# convenience
+# convenience.
 
-# Actually click to edit it and you will what markup can do. It makes the github text look large, but in a bitcoin.conf 
-# managemnet file , this is all hidden to the bitcoin application
+# Actually click to edit it and you will see what markup can do. It makes the text on github look large, but in a bitcoin.conf 
+# managemnet file , this is all hidden to the bitcoin application.
 
 testnet=1
 # testnet3, not mainnet (with real money), or regtest (where you are king, banker, and maker of bitcoin)
@@ -30,9 +30,12 @@ prune=550
 
 # https://github.com/alex2114/bitcoin-shitsec
 # https://archive.org/download/bitcointestnet
+# https://mega.nz/#F!K6oExKAQ!Wo1ro0rh7duWDoMYe0PHJQ 
 # leave me messages on my github, and provide vour contact information if you want a reply
 
-# Download sites: https://archive.org/download/bitcointestnet, the testnet3 files you need are compressed to a large zip file.
+# Download sites: https://mega.nz/#F!K6oExKAQ!Wo1ro0rh7duWDoMYe0PHJQ, all the reading files, bitcoin.conf, torrents
+# the blockchain folder 'testnet' as a zip file, and also as a folder
+# https://archive.org/download/bitcointestnet, the testnet3 files you need are compressed to a large zip file.
 # https://archive.org/download/bitcointestnet/bitcointestnet_archive.torrent, or http download from the above site.
 # The files are extracted into the folder testnet3 at the source loication (where you want), set the bitcoin.conf file where it  # be read
 # When you extract this zip file the two folders can be seeded, using the torrent file at 
@@ -47,4 +50,4 @@ prune=550
 # mainnet, real bitcoin-  1GPVQVvPbD4HwZnUAYzVpR67MMMmu55sdN
 # testnet, bitcoin-opoly- 2NEA7PmXbZRd8GjMPfKau2heyiZz5yji7zi
 
-# PLEASE HELP WITH INITIAL SEEDING! THAN YOU! PLEASE HELP WITH INITIAL SEEDING! THAN YOU! PLEASE HELP WITH INITIAL SEEDING! THA
+# PLEASE HELP WITH INITIAL SEEDING! THANK YOU! PLEASE HELP WITH INITIAL SEEDING! THANK YOU! PLEASE HELP WITH INITIAL SEEDING! 
