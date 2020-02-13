@@ -21,6 +21,8 @@ b2sum hash of each indidual file
 
 // https://archive.org/download/bitcointestnet
 
+// https://mega.nz/#F!K6oExKAQ!Wo1ro0rh7duWDoMYe0PHJQ 
+
 // leave me messages on my github, and provide vour contact information if you want a reply
 
 ...
