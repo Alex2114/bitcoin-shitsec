@@ -1,4 +1,5 @@
 // bitcoin-shitsec
+
 // bitcoin blockchain, testnet
 testnet=1
 prune=550
