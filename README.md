@@ -16,6 +16,7 @@ b2sum hash of each indidual file
 
 // distribute monthly updates over bittorrent
 
+kindly remove all torrent files you have, magnet file is only p2p recommendation
 
 // https://github.com/alex2114/bitcoin-shitsec
 
@@ -23,6 +24,6 @@ b2sum hash of each indidual file
 
 // https://mega.nz/#F!K6oExKAQ!Wo1ro0rh7duWDoMYe0PHJQ 
 
-// leave me messages on my github, and provide vour contact information if you want a reply
+leave me messages on my github, and provide vour contact information if you want a reply
 
 ...
